@@ -1,6 +1,8 @@
 {
-  "versionCode": 266,
+  "schemaVersion": 1,
+  "versionCode": 267,
   "versionName": "latest",
+  "minSupportedVersionCode": 0,
   "downloadUrl": "https://github.com/ninamuagza/PocketPawn/releases/latest/download/PocketPawn.apk",
   "releaseNotes": "Latest PocketPawn build.",
   "mandatory": false
