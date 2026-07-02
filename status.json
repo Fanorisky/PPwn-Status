@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "versionCode": 270,
+  "versionCode": 370,
   "versionName": "latest",
   "minSupportedVersionCode": 0,
   "downloadUrl": "https://github.com/Fanorisky/PPwn-Status/releases/download/Test/app-debug.apk",
-  "releaseNotes": "Latest PocketPawn build.",
+  "releaseNotes": "- Find in Files & in-file search\n- Git: clone, commit, push, pull, cherry-pick clone\n- Add color picker\n- Custom editor theme\n- Rework UI icons\n- Compose migration for Git & color picker dialogs\n- Various editor/keyboard bug fixes",
   "mandatory": false
 }
