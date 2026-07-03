@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "versionCode": 370,
+  "versionCode": 360,
   "versionName": "latest",
   "minSupportedVersionCode": 0,
   "downloadUrl": "https://github.com/Fanorisky/PPwn-Status/releases/download/Test/app-debug.apk",
-  "releaseNotes": "- Find in Files & in-file search\n- Git: clone, commit, push, pull, cherry-pick clone\n- Add color picker\n- Custom editor theme\n- Rework UI icons\n- Compose migration for Git & color picker dialogs\n- Various editor/keyboard bug fixes",
+  "releaseNotes": "- Sublime-accurate Mariana & Light themes + custom TextMate theme\n- Find in Files + PC-style Find/Replace (Ctrl+F, Ctrl+H, Ctrl+Shift+F)\n- Git: panel, clone (incl. cherry-pick & submodules), branches, commit/push/pull/fetch, file status colors\n- Acode-style color picker\n- Xed Material Symbols UI icons\n- Compose dialogs: keyboard-safe, faster first open\n- Editor fixes: caret clamp crash, highlighting bar, drawer input freeze",
   "mandatory": false
 }
