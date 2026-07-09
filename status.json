@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "versionCode": 361,
+  "versionCode": 399,
   "versionName": "latest",
   "minSupportedVersionCode": 0,
   "downloadUrl": "https://github.com/Fanorisky/PPwn-Status/releases/download/Test/app-debug.apk",
-  "releaseNotes": "- Refined Mariana & Light themes + custom TextMate theme\n- Find in Files + PC-style Find/Replace (Ctrl+F, Ctrl+H, Ctrl+Shift+F)\n- Git: panel, clone (incl. cherry-pick & submodules), branches, commit/push/pull/fetch, file status colors\n- New color picker\n- Refreshed UI icons\n- Smoother, keyboard-safe dialogs\n- Editor fixes: caret clamp crash, highlighting bar, drawer input freeze",
+  "releaseNotes": "- Multi-root workspace + Git repo switcher (multi-repo, dedup by git root)\n- Compose dialogs: keyboard-safe, in-window overlay, ease-in-out animation\n- New closed/open folder icons + per-file-type icons + Pawn file icon\n- Tighter row density for workspace tree & Git sidebar\n- Instant save reflection: saved files color the tree & Changes right away\n- Faster Git: cached repo handles reused, single scan per refresh\n- Find in Files: no result cap, memory-adaptive stop (anti-OOM)\n- Configurable live-editor (highlight) cache, unlimited mode available\n- Custom autocomplete from your own .inc/.pwn files, per-category toggles\n- Consistent, theme-aware highlight color in the completion popup\n- \"No files added.\" empty state for custom symbol files in Settings\n- Ctrl+F/H/Shift+F shortcuts work even when editor isn't focused\n- Fixes: CI icon, compile-FAB resize glitch, update-nag dialog crash, parser regex backtracking",
   "mandatory": false
 }
